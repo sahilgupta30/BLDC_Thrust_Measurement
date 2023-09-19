@@ -16,6 +16,4 @@ while True:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(data)
 
-    print("Row added successfully.")
-
     
